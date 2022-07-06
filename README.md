@@ -7,8 +7,8 @@
 
 - C++ ➡️ very gud
 - C ➡️ gud
-- Rust ➡️ ok (started learning)
-- JavaScript ➡️ hate that one but i can do some stuff
+- Rust ➡️ just started
+- JavaScript ➡️ hate that one 👎
 
 ### work
 
