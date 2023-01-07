@@ -2,7 +2,7 @@
 <p align="center">
   i'm a game hacker
   i love system security & networking
-</p
+</p>
 <h3 align="center">langs</h3>
 <ul align="center">
   <li>C/C++ 💪</li>
