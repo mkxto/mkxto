@@ -1,11 +1,13 @@
+<p align="center">
 ### hello friend
 
-- 👋 i'm a game hacker
-- 🔒 i love system security & networking
-
+i'm a game hacker
+i love system security & networking
+  
 ### langs
 
-- C++ ✅
-- C ✅
-- Rust ✅
+- C/C++ 💪
+- Rust 🖤
 - JavaScript 🚼
+
+</p>
