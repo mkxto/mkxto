@@ -4,8 +4,4 @@
   i love system security & networking
 </p>
 <h3 align="center">langs</h3>
-<ul align="center">
-  <li>C/C++ 💪</li>
-  <li>Rust 🖤</li>
-  <li>JavaScript 🚼</li>
-</ul> 
+<p align="center"> C/C++ 💪 - Rust 🖤 - JavaScript 🚼 </p>
